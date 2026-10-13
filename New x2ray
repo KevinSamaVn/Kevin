@@ -1,2 +1,4 @@
-vless://1@neko:1?path=%2F&security=&encryption=none&host=1&type=ws#%F0%9F%A5%BA%20M%C3%A1y%20ch%E1%BB%A7%20%C4%91%C3%A3%20h%E1%BA%BFt%20h%E1%BA%A1n
-vless://1@neko:1?path=%2F&security=none&encryption=none&host=1&type=ws#%F0%9F%A5%BA%20Vui%20L%C3%B2ng%20Li%C3%AAn%20H%E1%BB%87%20Admin
+vless://22ac10ac-f861-43e8-8a52-779d254c701a@mobi.nekovpn.top:443?path=%2Fnekopat&security=tls&encryption=none&insecure=0&host=vpn.nekovpn.top&type=ws&allowInsecure=0&sni=vpn.nekovpn.top#%F0%9F%87%BB%F0%9F%87%B3%20M.B%E1%BA%AFc%20%F0%9F%98%BA%20Mobifone%20Neko%20Stable%20%E2%9C%85
+vless://22ac10ac-f861-43e8-8a52-779d254c701a@mobi.nekovpn.top:80?path=%2Fnekopat&security=none&encryption=none&host=vpn.nekovpn.top&type=ws#%F0%9F%87%BB%F0%9F%87%B3%20M.B%E1%BA%AFc%20%F0%9F%98%BA%20Mobifone%20Neko%20%E2%AD%90
+vless://4be3b17c-c79f-4a65-a732-53085786a0f7@mobi.nekovpn.top:443?path=%2Fnekopat&security=tls&encryption=none&insecure=0&host=dev.nekovpn.top&type=ws&allowInsecure=0&sni=vpn.nekovpn.top#%F0%9F%87%BB%F0%9F%87%B3%20M.Nam%20%F0%9F%98%BA%20Mobifone%20Neko%20Stable%20%E2%9C%85
+vless://4be3b17c-c79f-4a65-a732-53085786a0f7@mobi.nekovpn.top:80?path=%2Fnekopat&security=none&encryption=none&host=dev.nekovpn.top&type=ws#%F0%9F%87%BB%F0%9F%87%B3%20M.Nam%20%F0%9F%98%BA%20Mobifone%20Neko%20%E2%AD%90
